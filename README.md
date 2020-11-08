@@ -1,6 +1,6 @@
 # office_work_reqruits
 reqruit part time job. for office worker.
-
+(this document is unfinished.)
 ## 
 Submit your porfolio to my twitter DM.
 
@@ -18,6 +18,8 @@ Submit your porfolio to my twitter DM.
 |-----------|-----------|----------|-----------------|
 |000121     |           |          |                 |
 |           |           |          |                 |
-
+|-----------|-----------|----------|-----------------|
+|-----------|-----------|sum       |                 |
+|           |           |avarage   |                 |
 
 #### figure.1

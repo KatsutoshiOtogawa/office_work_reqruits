@@ -9,9 +9,9 @@ Submit your porfolio to my twitter DM.
 
 ### Excel
 
-2.
-3.Calculate average monthly sarary, express japanese yen(1$=130円).
-4.Calculate median value of saralies.
+2. 
+3. Calculate average monthly sarary, express japanese yen(1$=130円).
+4. Calculate median value of saralies.
 
 #### data.1
 |employee id|second name|first name|monthly sarary($)|
